@@ -1,0 +1,22 @@
+{
+    "name": "day_01",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "ts-node": {
+        "esm": true
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ts-node": "^10.9.2"
+    },
+    "devDependencies": {
+        "@types/node": "^20.10.6"
+    }
+}
